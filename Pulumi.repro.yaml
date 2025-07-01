@@ -1,2 +1,0 @@
-config:
-  pulumi-kubernetes-refresh-bug:enable-imported-configmap: "false"
