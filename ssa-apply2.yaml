@@ -1,0 +1,11 @@
+---
+kind: ConfigMap
+apiVersion: v1
+metadata:
+  name: deployed-configmap
+  namespace: default
+data:
+  test-key: "test-value"
+  another-key: "another-value"
+  additional-key: "additional-value"
+  yet-another-key: "yet-another-value"
